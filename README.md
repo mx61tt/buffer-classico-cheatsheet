@@ -48,6 +48,7 @@ Scripts           | Link
 conecta.py        | Clique aqui 
 fuzzing.py        | Clique aqui 
 poc.py            | Clique aqui 
+findeip.py        | Clique aqui
 eip.py            | Clique aqui 
 badchars.py       | Clique aqui 
 exploit.py        | Clique aqui 
